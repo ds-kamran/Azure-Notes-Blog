@@ -9,8 +9,6 @@ tags: azure
 
 ---
 
-Reference : [https://www.youtube.com/watch?v=\_x1V2ny8FWM&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=3&t=611s](https://www.youtube.com/watch?v=_x1V2ny8FWM&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=3&t=611s)
-
 Every resource should be created inside the resource group.
 
 Ideally needs to deallocate the services to stop pay.
@@ -44,3 +42,5 @@ Types of "As A Service":
 Pricing Calculator: [https://azure.microsoft.com/en-ca/pricing/calculator](https://azure.microsoft.com/en-ca/pricing/calculator)
 
 In order to use pricing calculator one needs to have good understanding of architecture to generate pricing. Later the calculation could be shared with the pre-sales or the end client.
+
+Reference : [https://www.youtube.com/watch?v=\_x1V2ny8FWM&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=3&t=611s](https://www.youtube.com/watch?v=_x1V2ny8FWM&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=3&t=611s)
